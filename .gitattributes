@@ -1,0 +1,2 @@
+# Ensuring the files are converted to LF
+*.json text eol=lf
